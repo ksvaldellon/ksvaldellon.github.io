@@ -3,19 +3,19 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Maricar
-middle_name: L.
-last_name: Rabonza
-email: maricarl001@ntu.edu.sg
+first_name: Karla
+middle_name: S.
+last_name: Valdellon
+email: ksvaldellon@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Maricar's personal academic portfolio.
+  Karla's personal academic portfolio.
 footer_text: >
   PAGE UNDER CONSTRUCTION
 keywords:  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🔥 # the emoji used as the favicon
-url: https://maricarl001.github.io # the base hostname & protocol for your site
+url: https://ksvaldellon.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -52,18 +52,18 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: maricarl001 # your GitHub user name
+github_username: # ksvaldellon # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: MaricarRabonza # your Twitter handle
-linkedin_username: maricar-rabonza # your LinkedIn user name
-scholar_userid: x89LT0wAAAAJ # your Google Scholar ID
+twitter_username: # # your Twitter handle
+linkedin_username: ksvaldellon # your LinkedIn user name
+scholar_userid: # # your Google Scholar ID
 orcid_id: # 0000-0001-7428-4788 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
-research_gate_profile: Maricar-Rabonza # your profile on ResearchGate
+research_gate_profile:  # your profile on ResearchGate
 blogger_url: # your blogger URL
-work_url: https://disaster-analytics.com/team/maricar-rabonza/ # work page URL
+work_url:  # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
